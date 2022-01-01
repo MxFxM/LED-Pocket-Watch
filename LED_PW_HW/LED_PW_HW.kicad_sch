@@ -40,442 +40,445 @@
 
   (symbol_instances
     (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/e57a5be8-963b-40b2-b9d8-2bd3b27d4382"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/0176cf0e-6d88-4f17-be55-360677b2be23"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/032d03bd-d18c-41b4-8963-e88baf159fc8"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/0ae359d1-fef4-42a4-b18d-766e811855a4"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/0bfac7db-1350-4529-adab-48cdfdb73297"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/0c7db305-869e-4c1f-b03b-2c52fdc59896"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/0dd568e5-0a53-427e-b9c2-7c71b24b0fc9"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/0f7feec6-9494-4651-8fef-94166bbda711"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/1165cfbd-398f-4895-ae6d-4e9252e7f635"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/1275ec48-2d13-4695-9b1f-4bac514654d7"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/141e4040-6382-4d06-a4b1-e05047c5464d"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/149bdc20-4fb9-49b5-9047-85dde6e3c0f1"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/14c4e984-717e-4a0a-9e46-67d5df97f2ff"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/16957da1-b68b-4c4f-82b1-383b43841857"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/16b8c37b-c7af-441a-b73d-e2dc81539e80"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/17ebaf96-782c-437f-a9da-b02225709c82"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/19af1585-b18c-4a69-83ae-7bdf779809ee"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/1a76bd3f-015b-4908-b8bb-66ad0e808324"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/1cf7a17f-0142-46f5-99dc-0c83960efa45"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/2302e351-0044-4a3d-b94d-9cba280914ae"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/247c3a2b-4963-45ef-8036-2dad0c305525"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/262d6a52-9b71-4727-80cd-cf0b28e74b84"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/27793069-5cc6-4282-af40-0db1ab8aecfe"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/2a9e5333-cd24-4b7e-9cbc-833a9b29e734"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/2f50ab53-8ef8-42d7-a430-21ad837a99f9"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/3036cfb5-4aaa-42cc-8729-a825736f0a51"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/31255676-2dff-4254-a580-718ac761dd97"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/349713ff-a847-4b10-b31a-223449461356"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/356df635-53ec-4ac9-8520-f1903b22fe8b"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/38cc0e65-d54d-4a69-89b0-ccb629c917e4"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/38deb8a5-08d7-4846-82db-62acf7a89f27"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/3958aedc-57b6-4616-be8f-842c7585e5b5"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/3c1389e5-6f61-45c2-8dd9-2b95b2223b05"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/3da9bd99-cab2-4fc8-bd43-9556557fd4a6"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/3e0ac01b-0ca4-4e75-9c4d-4d35708cee00"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/3feff6a6-58c9-4f7b-adbf-52816c4004c2"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/41636ecc-a006-47db-a384-2f3fb292e608"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/44006c13-e7fa-47fc-bb69-c2904d4c41aa"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/45a43ae0-1acf-45f7-95de-efcde3f3d743"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/4711b170-3ddf-48da-b412-3460c62e5ffe"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/48de823c-175d-4afc-9433-db7012d6b640"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/49f3f0b9-749c-466b-b3bb-5b6b92cc9c82"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/576f5735-93fa-4c44-bf49-8f183a392256"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/58cdade0-36a6-4e0a-b1dc-a9dbf1a1ec66"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/5b1c9882-7cfc-4d2a-b0b9-ab67ace4be1f"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/5bfff5bb-2471-4cbc-a648-74a98651f4c9"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/5d14f2f8-7ddc-4a18-98fa-0a8f9b30573f"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/5d5641b8-8349-4462-824b-9ccf0c9e70e3"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/61b6a3d5-81df-448f-b0d1-e6b909e1b230"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/61efd6ab-cb76-4605-9d3d-c4ad39d30217"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/65423858-e1ab-4a47-96f3-c97319ff8fdd"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/66131678-834c-4146-ba3c-4cf1d1d3f787"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/67c9c50a-309e-40a0-8410-6bf667483999"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/67e58a86-4c4b-4e11-bb1d-3d2594e68bc7"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/689e906e-a5be-4ad2-a337-c01c272ef264"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/6c440908-62d4-4772-a4d2-0c7fdeaab416"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/6c9cae21-77c1-402b-a2a9-d5e942ef1503"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/721b2c1b-d3d7-4195-8534-677f98be07a1"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/73a6776d-79bc-41bb-8766-5a763d1b32e0"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/73d0d9f1-b4a8-48e6-8c26-e3fb6243a7eb"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/7529305a-85b2-47cd-ad96-7b8635dbc210"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/75db9b96-7bbc-4568-92f6-6214a9eb291d"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/77f6a9b8-17d1-4dc9-9f4d-bee8ad815c91"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/7892f1bd-7c3a-412b-a38a-9658ebe97975"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/796cd280-33a0-4fcb-a929-2113a1390e18"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/7a6df6c6-c64c-4ace-87f9-18e5be8f065d"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/7c29fa2e-b297-459d-9e3c-d90d7e8ecfd5"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/83461428-07cf-4d42-995a-f1ea2308cd68"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/87a89dc7-0a42-415c-948f-161c0944b773"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/8953b6b7-5470-40f3-898b-35ac8682c3a5"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/896dcef5-6f47-4fff-adc3-f077ed5da937"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/8ab1e713-6554-4d8d-83fa-6d112de49419"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/8abf2607-cd2b-439e-9292-088e90e64758"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/8c30560c-b8fa-4096-923f-710eae5204a6"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/8c51f7ab-6ffe-45fe-8ddb-b220b78f6c63"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/8cb36969-5e5a-4612-93e0-b62e9bedea51"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/8e2f7466-e296-42a7-8b6a-8e477cd376b3"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/8f1b136c-96bb-43a0-b0ea-0210e762483d"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/8f7f2167-f3dc-47e9-8a53-f871e9c0d32f"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/910c39bc-dd62-48ef-9792-21e3ef6588c1"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/94a5c135-386e-47ff-bb95-c3be1442b568"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/969c7465-b9fa-4ec7-8376-7ff7142c99af"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/96b6c12d-d9e2-4ff0-803a-bc6cf5b58562"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/9a6515de-2faf-41d4-960e-3271f22f2b9f"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/9f954e10-98a8-4708-86d1-7e9f0f3e3ad8"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/a196dea7-f3a7-4113-acaf-61dbd2488b20"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/a2855d0a-62db-4435-8f80-65c8f6445159"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/a4f8b6e6-e30c-44e1-a57a-dfe48100edee"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/ab03b67e-fec6-4b4c-81dd-f94102616891"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/ab7640ae-1ca3-4968-a8c9-4e79a4d96611"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/b2472121-8c20-4bb9-8258-9a1b323c0a2d"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/b5f77aba-eae6-443c-b703-c3f6ffa7da3b"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/b7bb1a08-ec9e-4df1-a693-76d9b8abf400"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/b7e6d86e-71da-4fb5-b0da-0095dbda2cc1"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/b9ca0d4f-360a-4cdc-95b8-3ecb9ac9e917"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/bc0eb3be-9004-4429-8af8-a5beff2c9200"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/bdfbf34f-3336-47ff-89f9-12791ac9cd69"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/c00e9836-110d-49dd-bee8-7c11d24d697a"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/c4a6a177-221d-4f21-bbb9-703397ad12f4"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/c5f077eb-9905-4974-b30f-672620ec9f52"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/c61b0714-24a6-46e8-afcb-f6f6b2107d34"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/c6cae796-faea-4351-bb3e-346c07a84b08"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/cbbf403e-2af7-4296-a89a-2d6c22c3c144"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/cbf780dc-fdd4-405f-9c39-73f3ad8b99c0"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/cc155d0b-a958-4431-a117-47a0d775c269"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/cd57347b-770a-40d0-a77d-e0699746fd47"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/cdd29b28-05d0-456b-b3aa-ea9424a678d9"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/ce1ddbe4-bd28-4703-a15c-1470a2d85731"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d0b573ed-9de9-4675-ba1d-ef247bf3bc5b"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d28cbb27-86ec-444b-8685-6fa903f04a6b"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d3f657af-797b-4cf1-b7be-ff6876f60675"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d4011d22-0163-45c0-9bf2-d2d5e1da03c7"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d41f0312-f4cf-440a-8756-5e631d6d7822"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d4d1f636-0825-4190-ab3d-c10cc42ecba1"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d5167fe2-8284-473e-a467-40b89e6b86c5"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d52fe3cc-6134-491e-9870-a469665e11ad"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d6494145-bdaa-4400-9448-00d56c8f1c71"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d670d87f-2ab7-4e2f-a7e7-a1205bb9c697"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d719c282-a414-4bdb-9dfd-2813c1235e09"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d7b285d2-fe3e-4e4e-977c-ac4ea42e27a4"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d84cf2c9-b64d-4514-9689-1298019e5fa3"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d89a4138-5003-49b7-890d-00075d21fac6"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
+    (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/f32b429b-dcd8-4991-98ca-5f2e2fbf9cec"
+      (reference "BT1") (unit 1) (value "Battery_Holder") (footprint "LED_PW_HW_Library:SMTU2032-LF")
     )
     (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d9b96117-8a1b-4145-b9fc-d0b709a8ebbc"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
+      (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
     )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/da8cdc8a-ba91-49e3-85f1-1296512684a1"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/7529305a-85b2-47cd-ad96-7b8635dbc210"
+      (reference "D2") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
     )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/daeb5f8c-ba61-4fdd-8df8-ccf0e9972874"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/daf51efe-2a6d-407f-a309-f4ea72c7b283"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/de6f48dc-03c4-4103-9755-682842590a1a"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/de97c119-91be-4f16-a8f3-7443c917b584"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/dfc25db6-079b-4a74-8258-6e43744ba019"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/e3872782-9dbd-4a1e-8540-331a8aa67de7"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/e3b4fd73-5057-42dc-b8f9-5432c7d2fb94"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/e935179f-3431-4240-adf7-394c3a742273"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/eae679ae-7c7e-40cc-a639-f2927e9e9c02"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/ebd4c26b-c5fe-43d6-82fc-d2f867744c9d"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/ebf1f42e-c9cd-429d-acdc-3753b2dd11f7"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/f24eeab9-250c-4882-bd7d-c4fd25d219c9"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/f2ce08c0-5072-4195-a17f-d9553cfef0a8"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/f3db9e4a-e152-428c-92c1-fdae89c3be26"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/f603ea93-cc48-4048-8aa7-30ddfe8f0d24"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/f6c80eed-65db-4bdc-b20f-98eb50f7bb86"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/fae4e921-5192-4165-a8a8-5cbca9be46f4"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/fc6016e6-4564-4a1a-8ed0-35003b0ee390"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/fc794886-a38d-4024-94c2-50e8d211ae80"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/b5f77aba-eae6-443c-b703-c3f6ffa7da3b"
+      (reference "D3") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
     )
     (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/fdb7848c-9e3f-4083-a57b-38a090e62d40"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
+      (reference "D4") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/a4f8b6e6-e30c-44e1-a57a-dfe48100edee"
+      (reference "D5") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/c61b0714-24a6-46e8-afcb-f6f6b2107d34"
+      (reference "D6") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/14c4e984-717e-4a0a-9e46-67d5df97f2ff"
+      (reference "D7") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/0bfac7db-1350-4529-adab-48cdfdb73297"
+      (reference "D8") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/262d6a52-9b71-4727-80cd-cf0b28e74b84"
+      (reference "D9") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/da8cdc8a-ba91-49e3-85f1-1296512684a1"
+      (reference "D10") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/7c29fa2e-b297-459d-9e3c-d90d7e8ecfd5"
+      (reference "D11") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/f24eeab9-250c-4882-bd7d-c4fd25d219c9"
+      (reference "D12") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/e3b4fd73-5057-42dc-b8f9-5432c7d2fb94"
+      (reference "D13") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/31255676-2dff-4254-a580-718ac761dd97"
+      (reference "D14") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d6494145-bdaa-4400-9448-00d56c8f1c71"
+      (reference "D15") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d84cf2c9-b64d-4514-9689-1298019e5fa3"
+      (reference "D16") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/0c7db305-869e-4c1f-b03b-2c52fdc59896"
+      (reference "D17") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d4d1f636-0825-4190-ab3d-c10cc42ecba1"
+      (reference "D18") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/0f7feec6-9494-4651-8fef-94166bbda711"
+      (reference "D19") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/721b2c1b-d3d7-4195-8534-677f98be07a1"
+      (reference "D20") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/daf51efe-2a6d-407f-a309-f4ea72c7b283"
+      (reference "D21") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/1a76bd3f-015b-4908-b8bb-66ad0e808324"
+      (reference "D22") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/16b8c37b-c7af-441a-b73d-e2dc81539e80"
+      (reference "D23") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/27793069-5cc6-4282-af40-0db1ab8aecfe"
+      (reference "D24") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/73a6776d-79bc-41bb-8766-5a763d1b32e0"
+      (reference "D25") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/bc0eb3be-9004-4429-8af8-a5beff2c9200"
+      (reference "D26") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/83461428-07cf-4d42-995a-f1ea2308cd68"
+      (reference "D27") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/0dd568e5-0a53-427e-b9c2-7c71b24b0fc9"
+      (reference "D28") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d41f0312-f4cf-440a-8756-5e631d6d7822"
+      (reference "D29") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/de97c119-91be-4f16-a8f3-7443c917b584"
+      (reference "D30") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/19af1585-b18c-4a69-83ae-7bdf779809ee"
+      (reference "D31") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/de6f48dc-03c4-4103-9755-682842590a1a"
+      (reference "D32") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/f603ea93-cc48-4048-8aa7-30ddfe8f0d24"
+      (reference "D33") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/61efd6ab-cb76-4605-9d3d-c4ad39d30217"
+      (reference "D34") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/c6cae796-faea-4351-bb3e-346c07a84b08"
+      (reference "D35") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/f2ce08c0-5072-4195-a17f-d9553cfef0a8"
+      (reference "D36") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/1275ec48-2d13-4695-9b1f-4bac514654d7"
+      (reference "D37") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/141e4040-6382-4d06-a4b1-e05047c5464d"
+      (reference "D38") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/2f50ab53-8ef8-42d7-a430-21ad837a99f9"
+      (reference "D39") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/48de823c-175d-4afc-9433-db7012d6b640"
+      (reference "D40") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/1cf7a17f-0142-46f5-99dc-0c83960efa45"
+      (reference "D41") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/ab03b67e-fec6-4b4c-81dd-f94102616891"
+      (reference "D42") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/349713ff-a847-4b10-b31a-223449461356"
+      (reference "D43") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/87a89dc7-0a42-415c-948f-161c0944b773"
+      (reference "D44") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/2302e351-0044-4a3d-b94d-9cba280914ae"
+      (reference "D45") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/8c30560c-b8fa-4096-923f-710eae5204a6"
+      (reference "D46") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/41636ecc-a006-47db-a384-2f3fb292e608"
+      (reference "D47") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d0b573ed-9de9-4675-ba1d-ef247bf3bc5b"
+      (reference "D48") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/3e0ac01b-0ca4-4e75-9c4d-4d35708cee00"
+      (reference "D49") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/8e2f7466-e296-42a7-8b6a-8e477cd376b3"
+      (reference "D50") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/0176cf0e-6d88-4f17-be55-360677b2be23"
+      (reference "D51") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/e935179f-3431-4240-adf7-394c3a742273"
+      (reference "D52") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/cc155d0b-a958-4431-a117-47a0d775c269"
+      (reference "D53") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/c5f077eb-9905-4974-b30f-672620ec9f52"
+      (reference "D54") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/49f3f0b9-749c-466b-b3bb-5b6b92cc9c82"
+      (reference "D55") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/cdd29b28-05d0-456b-b3aa-ea9424a678d9"
+      (reference "D56") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/44006c13-e7fa-47fc-bb69-c2904d4c41aa"
+      (reference "D57") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d670d87f-2ab7-4e2f-a7e7-a1205bb9c697"
+      (reference "D58") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/38deb8a5-08d7-4846-82db-62acf7a89f27"
+      (reference "D59") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d5167fe2-8284-473e-a467-40b89e6b86c5"
+      (reference "D60") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
     )
     (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/ff379758-a03c-44fc-a995-3a6955aed2ae"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
+      (reference "D61") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/8f1b136c-96bb-43a0-b0ea-0210e762483d"
+      (reference "D62") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/969c7465-b9fa-4ec7-8376-7ff7142c99af"
+      (reference "D63") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/c4a6a177-221d-4f21-bbb9-703397ad12f4"
+      (reference "D64") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/7892f1bd-7c3a-412b-a38a-9658ebe97975"
+      (reference "D65") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/2a9e5333-cd24-4b7e-9cbc-833a9b29e734"
+      (reference "D66") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/5b1c9882-7cfc-4d2a-b0b9-ab67ace4be1f"
+      (reference "D67") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/6c9cae21-77c1-402b-a2a9-d5e942ef1503"
+      (reference "D68") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/3feff6a6-58c9-4f7b-adbf-52816c4004c2"
+      (reference "D69") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/8953b6b7-5470-40f3-898b-35ac8682c3a5"
+      (reference "D70") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/9a6515de-2faf-41d4-960e-3271f22f2b9f"
+      (reference "D71") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/796cd280-33a0-4fcb-a929-2113a1390e18"
+      (reference "D72") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/dfc25db6-079b-4a74-8258-6e43744ba019"
+      (reference "D73") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/58cdade0-36a6-4e0a-b1dc-a9dbf1a1ec66"
+      (reference "D74") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/b7bb1a08-ec9e-4df1-a693-76d9b8abf400"
+      (reference "D75") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d52fe3cc-6134-491e-9870-a469665e11ad"
+      (reference "D76") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/cbf780dc-fdd4-405f-9c39-73f3ad8b99c0"
+      (reference "D77") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/f6c80eed-65db-4bdc-b20f-98eb50f7bb86"
+      (reference "D78") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/ab7640ae-1ca3-4968-a8c9-4e79a4d96611"
+      (reference "D79") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/8c51f7ab-6ffe-45fe-8ddb-b220b78f6c63"
+      (reference "D80") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/a196dea7-f3a7-4113-acaf-61dbd2488b20"
+      (reference "D81") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/cbbf403e-2af7-4296-a89a-2d6c22c3c144"
+      (reference "D82") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/3da9bd99-cab2-4fc8-bd43-9556557fd4a6"
+      (reference "D83") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/0ae359d1-fef4-42a4-b18d-766e811855a4"
+      (reference "D84") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/17ebaf96-782c-437f-a9da-b02225709c82"
+      (reference "D85") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/149bdc20-4fb9-49b5-9047-85dde6e3c0f1"
+      (reference "D86") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/b9ca0d4f-360a-4cdc-95b8-3ecb9ac9e917"
+      (reference "D87") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/5d14f2f8-7ddc-4a18-98fa-0a8f9b30573f"
+      (reference "D88") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/8f7f2167-f3dc-47e9-8a53-f871e9c0d32f"
+      (reference "D89") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/96b6c12d-d9e2-4ff0-803a-bc6cf5b58562"
+      (reference "D90") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/75db9b96-7bbc-4568-92f6-6214a9eb291d"
+      (reference "D91") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/e3872782-9dbd-4a1e-8540-331a8aa67de7"
+      (reference "D92") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/c00e9836-110d-49dd-bee8-7c11d24d697a"
+      (reference "D93") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/67c9c50a-309e-40a0-8410-6bf667483999"
+      (reference "D94") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/ce1ddbe4-bd28-4703-a15c-1470a2d85731"
+      (reference "D95") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/94a5c135-386e-47ff-bb95-c3be1442b568"
+      (reference "D96") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/8ab1e713-6554-4d8d-83fa-6d112de49419"
+      (reference "D97") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/bdfbf34f-3336-47ff-89f9-12791ac9cd69"
+      (reference "D98") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/67e58a86-4c4b-4e11-bb1d-3d2594e68bc7"
+      (reference "D99") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/daeb5f8c-ba61-4fdd-8df8-ccf0e9972874"
+      (reference "D100") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/9f954e10-98a8-4708-86d1-7e9f0f3e3ad8"
+      (reference "D101") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/fc794886-a38d-4024-94c2-50e8d211ae80"
+      (reference "D102") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d719c282-a414-4bdb-9dfd-2813c1235e09"
+      (reference "D103") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/66131678-834c-4146-ba3c-4cf1d1d3f787"
+      (reference "D104") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/fae4e921-5192-4165-a8a8-5cbca9be46f4"
+      (reference "D105") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/65423858-e1ab-4a47-96f3-c97319ff8fdd"
+      (reference "D106") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/5d5641b8-8349-4462-824b-9ccf0c9e70e3"
+      (reference "D107") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/910c39bc-dd62-48ef-9792-21e3ef6588c1"
+      (reference "D108") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/b7e6d86e-71da-4fb5-b0da-0095dbda2cc1"
+      (reference "D109") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/3c1389e5-6f61-45c2-8dd9-2b95b2223b05"
+      (reference "D110") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/ebf1f42e-c9cd-429d-acdc-3753b2dd11f7"
+      (reference "D111") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/38cc0e65-d54d-4a69-89b0-ccb629c917e4"
+      (reference "D112") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/77f6a9b8-17d1-4dc9-9f4d-bee8ad815c91"
+      (reference "D113") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/6c440908-62d4-4772-a4d2-0c7fdeaab416"
+      (reference "D114") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/cd57347b-770a-40d0-a77d-e0699746fd47"
+      (reference "D115") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/032d03bd-d18c-41b4-8963-e88baf159fc8"
+      (reference "D116") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/356df635-53ec-4ac9-8520-f1903b22fe8b"
+      (reference "D117") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/896dcef5-6f47-4fff-adc3-f077ed5da937"
+      (reference "D118") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/f3db9e4a-e152-428c-92c1-fdae89c3be26"
+      (reference "D119") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/5bfff5bb-2471-4cbc-a648-74a98651f4c9"
+      (reference "D120") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/ebd4c26b-c5fe-43d6-82fc-d2f867744c9d"
+      (reference "D121") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/eae679ae-7c7e-40cc-a639-f2927e9e9c02"
+      (reference "D122") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d28cbb27-86ec-444b-8685-6fa903f04a6b"
+      (reference "D123") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/7a6df6c6-c64c-4ace-87f9-18e5be8f065d"
+      (reference "D124") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d4011d22-0163-45c0-9bf2-d2d5e1da03c7"
+      (reference "D125") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/73d0d9f1-b4a8-48e6-8c26-e3fb6243a7eb"
+      (reference "D126") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d3f657af-797b-4cf1-b7be-ff6876f60675"
+      (reference "D127") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/247c3a2b-4963-45ef-8036-2dad0c305525"
+      (reference "D128") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d7b285d2-fe3e-4e4e-977c-ac4ea42e27a4"
+      (reference "D129") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/fc6016e6-4564-4a1a-8ed0-35003b0ee390"
+      (reference "D130") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/61b6a3d5-81df-448f-b0d1-e6b909e1b230"
+      (reference "D131") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/3958aedc-57b6-4616-be8f-842c7585e5b5"
+      (reference "D132") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d89a4138-5003-49b7-890d-00075d21fac6"
+      (reference "D133") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/b2472121-8c20-4bb9-8258-9a1b323c0a2d"
+      (reference "D134") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/a2855d0a-62db-4435-8f80-65c8f6445159"
+      (reference "D135") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/45a43ae0-1acf-45f7-95de-efcde3f3d743"
+      (reference "D136") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/1165cfbd-398f-4895-ae6d-4e9252e7f635"
+      (reference "D137") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/8abf2607-cd2b-439e-9292-088e90e64758"
+      (reference "D138") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/689e906e-a5be-4ad2-a337-c01c272ef264"
+      (reference "D139") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/16957da1-b68b-4c4f-82b1-383b43841857"
+      (reference "D140") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/8cb36969-5e5a-4612-93e0-b62e9bedea51"
+      (reference "D141") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/576f5735-93fa-4c44-bf49-8f183a392256"
+      (reference "D142") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/4711b170-3ddf-48da-b412-3460c62e5ffe"
+      (reference "D143") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+    )
+    (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/3036cfb5-4aaa-42cc-8729-a825736f0a51"
+      (reference "D144") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
     )
     (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/84c8241f-b3cd-4ebe-8c78-222e0ca4884d"
-      (reference "U?") (unit 1) (value "IS31FL3732A") (footprint "")
+      (reference "U1") (unit 1) (value "IS31FL3732A") (footprint "LED_PW_HW_Library:IS31FL3732A")
     )
   )
 )
