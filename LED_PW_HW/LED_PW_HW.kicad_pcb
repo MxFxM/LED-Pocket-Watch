@@ -123,7 +123,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 006ee3ed-debe-4691-83ff-02d6d0593074)
-    (at 206 42)
+    (at 167 64)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -168,7 +168,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 0142204c-ea7a-450e-87e1-a014ac16ed83)
-    (at 329 178)
+    (at 259 69)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -213,7 +213,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 02def6a4-1be0-4765-90e3-5ec2fc49ab46)
-    (at 329 937.187955)
+    (at 201 71)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -258,7 +258,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 03b21780-41fc-412f-9634-726d758979eb)
-    (at 329 553.128166)
+    (at 162 73)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -303,7 +303,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 04c1e606-7509-4a6b-a3ab-c23c6d39cab3)
-    (at 329 186.931623)
+    (at 138 45)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -348,7 +348,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 04ecab63-3ba3-4607-adfb-660554b07e19)
-    (at 329 562.059789)
+    (at 138 41)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -393,7 +393,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 05fd22cb-dff4-4a8c-8f01-3428b502748b)
-    (at 329 294.111099)
+    (at 267 46)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -438,7 +438,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 08a29e36-283d-41fe-bc47-0d9e3f7edca0)
-    (at 329 803.21361)
+    (at 175 46)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -483,7 +483,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 08bbe74e-336e-46fb-bf46-95e809a2c1f8)
-    (at 217 18)
+    (at 229 30)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -528,7 +528,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 0953a15f-41c5-4512-8441-c561acfc82be)
-    (at 212 102)
+    (at 125 65)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -573,7 +573,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 0ac1ca77-fa0e-42ff-b870-a28ecc9930e0)
-    (at 329 570.991412)
+    (at 162 25)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -618,7 +618,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 0bfd5bd4-f6c4-4d83-955a-e9ca3b2d3945)
-    (at 202 42)
+    (at 163 64)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -663,7 +663,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 0db9632a-21af-4acb-9c05-e041f8c89b3a)
-    (at 329 365.564083)
+    (at 264 73)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -708,7 +708,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 0f45c489-1f27-4e6c-94ec-665602e92e75)
-    (at 329 499.538428)
+    (at 207 44)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -753,7 +753,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 0ff5c88c-73e0-4e46-bbf2-1d9a50aea9bc)
-    (at 329 401.290575)
+    (at 193 69)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -798,7 +798,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 1013dbaf-2030-4b19-85bd-3658da4d0627)
-    (at 217 102)
+    (at 130 65)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -843,7 +843,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 10462b04-fbbf-48c0-9377-7042f2677f34)
-    (at 329 410.222198)
+    (at 197 73)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -888,7 +888,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 149dc58e-d6c0-4a35-bd96-f9eaba940aac)
-    (at 329 678.170888)
+    (at 139 70)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -933,7 +933,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 15231d1a-4f4c-4d4c-8f35-26dfb618d04b)
-    (at 329 669.239265)
+    (at 129 40)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -978,7 +978,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 15e78e6a-8c84-4259-bcfc-c1d391a2ae95)
-    (at 329 990.777693)
+    (at 205 73)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1023,7 +1023,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 1fff8eda-cf00-4483-abcd-4098c2d0d203)
-    (at 329 704.965757)
+    (at 171 46)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1068,7 +1068,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 230e039b-1200-49f4-9764-81cfdd0b465a)
-    (at 329 1080.094032)
+    (at 256 73)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1113,7 +1113,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 232202d1-06da-4f5d-8460-0e8c5adb7df8)
-    (at 329 812.145233)
+    (at 204 68)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1158,7 +1158,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 2520ef0f-2c3f-4f87-8160-b56bbdf830a2)
-    (at 329 1026.504185)
+    (at 237 28)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1203,7 +1203,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 269a7af4-73b7-4598-900c-69837bb9cd7e)
-    (at 329 660.307642)
+    (at 267 25)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1248,7 +1248,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 28b4c581-3ce0-4270-b648-cde0b021b636)
-    (at 329 597.786281)
+    (at 164 48)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1293,7 +1293,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 290b2ff8-7fd3-4ba9-b5b0-28135feaafe8)
-    (at 329 535.26492)
+    (at 135 69)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1338,7 +1338,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 2b57e035-c5f2-4692-ba8d-3bdd0e309a9c)
-    (at 329 946.119578)
+    (at 142 43)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1383,7 +1383,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 2c5035ed-fbc4-41de-aa77-98b463e3778d)
-    (at 171.5925 59)
+    (at 225.5925 42)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1428,7 +1428,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 2c9e77bc-a78b-4385-bbfd-f567e0df96c3)
-    (at 329 526.333297)
+    (at 202 34)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1473,7 +1473,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 30a8d4e5-202c-4d57-80d8-c5f2ad3ce2dd)
-    (at 329 687.102511)
+    (at 221 24)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1518,7 +1518,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 326a4693-fdaa-4642-9895-c43c0f658e2d)
-    (at 329 767.487118)
+    (at 263 26)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1563,7 +1563,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 34123646-538f-4d29-99e3-ef929983a259)
-    (at 329 758.555495)
+    (at 202 24)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1608,7 +1608,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 352b0a7d-3f24-4a0b-a3df-fdd93f6b208f)
-    (at 166 25)
+    (at 159 29)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1653,7 +1653,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 371abc5a-52a7-4b87-8ec7-281e5dbbd659)
-    (at 108 24)
+    (at 256 69)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1698,7 +1698,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 3962f024-df76-4ce5-a845-a5bfd0cc118f)
-    (at 329 1017.572562)
+    (at 192 23)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1743,7 +1743,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 3b914da7-fc6a-4a2c-ad66-6baadb933ad2)
-    (at 329 222.658115)
+    (at 267 30)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1788,7 +1788,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 3df985c3-f366-4b7a-ba51-3a16b0d3445c)
-    (at 329 776.418741)
+    (at 171 63.068377)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1833,7 +1833,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 3e2733b2-429a-48e0-a5f6-9bc75cea3fb3)
-    (at 329 981.84607)
+    (at 197 24)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1878,7 +1878,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 40af157d-bec1-489e-8581-29ec391f5c92)
-    (at 329 276.247853)
+    (at 260 72)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1923,7 +1923,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 4110e71c-ac60-4e49-a67d-42ff60f3a0ba)
-    (at 329 865.734971)
+    (at 193 27)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -1968,7 +1968,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 43f72311-9d74-4379-aff9-849c5d7414c8)
-    (at 329 240.521361)
+    (at 137 28)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2013,7 +2013,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 44356c0d-9b78-48f4-a3d4-ef05db46f5b0)
-    (at 329 919.324709)
+    (at 130 49)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2058,7 +2058,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 4481f8e7-d64d-4cdd-a0b1-9920ebca6cc1)
-    (at 329 1053.299054)
+    (at 164 32)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2103,7 +2103,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 44aa0d60-164f-4aed-b896-c988740fd182)
-    (at 175 58)
+    (at 229 41)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2148,7 +2148,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 47f8feda-cdab-4cb7-833a-5d8c6b1e99a5)
-    (at 329 419.153821)
+    (at 233 25)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2193,7 +2193,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 480d5422-6d33-4319-a5c2-9ce1cd04fa90)
-    (at 202 30)
+    (at 195 34)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2238,7 +2238,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 488ff63f-1512-4eec-9188-185416b28e19)
-    (at 149.5925 61)
+    (at 198 45)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2283,7 +2283,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 48936810-9e12-4264-8ed1-89af32e04c7e)
-    (at 176 25)
+    (at 169 29)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2328,7 +2328,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 48d5a2e0-0aca-47bb-a89c-7d967129b113)
-    (at 329 794.281987)
+    (at 204 64)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2373,7 +2373,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 4a06368c-ac2a-4bd5-acce-393b80f8a278)
-    (at 329 338.769214)
+    (at 262 68)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2418,7 +2418,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 4d026afc-a80d-4fe2-a064-8ffcbda3c645)
-    (at 329 633.512773)
+    (at 260 25)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2463,7 +2463,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 5081eb15-8a0f-4df5-99a1-45a578bcf2b3)
-    (at 329 356.63246)
+    (at 133 23)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2508,7 +2508,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 54036806-5cd0-45d6-88ff-9467c591e789)
-    (at 329 169.068377)
+    (at 232 44)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2553,7 +2553,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 55b7b837-6ec7-48fe-8372-494d9537ee18)
-    (at 329 1071.1623)
+    (at 145 27)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2598,7 +2598,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 5705426a-2a3c-4964-b66b-006a26d4718d)
-    (at 329 374.495706)
+    (at 200 67)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2643,7 +2643,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 5774bdd1-8194-448a-aec7-dfa84546f3f4)
-    (at 329 231.589738)
+    (at 255 30)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2688,7 +2688,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 58a19930-7e6b-47cd-84cb-b0b147cfc2d9)
-    (at 329 437.017067)
+    (at 127 23)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2733,7 +2733,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 59471a0d-1594-45da-b757-b7a334f78bef)
-    (at 329 490.606805)
+    (at 168 25)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2778,7 +2778,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 59b8bf0d-c185-40df-bb16-20ea960e1493)
-    (at 140 24)
+    (at 133 28)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2823,7 +2823,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 5cf9a8f8-8d0c-4d56-aee3-5fefebf5207d)
-    (at 329 955.051201)
+    (at 195 67)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2868,7 +2868,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 5fdbeecb-600c-4689-a92f-7820269d7655)
-    (at 274 102)
+    (at 262 45)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2913,7 +2913,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 60250710-b6ec-448a-9a76-47c76eda6bc6)
-    (at 329 151.205131)
+    (at 197 48)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -2958,7 +2958,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 644d5ac8-9c43-456e-ab0c-b053f9bc520a)
-    (at 329 195.863246)
+    (at 265 42)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3003,7 +3003,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 666a127f-bbf1-44d7-9945-883a859a094b)
-    (at 329 579.923035)
+    (at 266 68)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3048,7 +3048,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 68bd9244-ad41-43e6-b7c7-8d19b53f9a7a)
-    (at 329 821.076856)
+    (at 171 68)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3093,7 +3093,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 6b6fd764-d949-4699-8423-22321ed8ba1e)
-    (at 136 24)
+    (at 129 28)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3138,7 +3138,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 6cd1c3bb-7b84-4800-8d53-33977d4aa4ce)
-    (at 329 115.478639)
+    (at 263 30)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3183,7 +3183,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 6e5e3d92-cdf9-42e6-94a9-9762d1429ab6)
-    (at 329 642.444396)
+    (at 169 49)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3228,7 +3228,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 71ec2bcf-c838-4d93-88b9-769d3aedab35)
-    (at 222 39)
+    (at 130 45)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3273,7 +3273,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 777373b6-39b2-4574-afde-52150cdad405)
-    (at 329 472.743559)
+    (at 207 48)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3318,7 +3318,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 7867b632-d2fd-4db9-9675-d8279a64bbd8)
-    (at 329 722.829003)
+    (at 172 25)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3363,7 +3363,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 79f4663e-6634-40d9-97a9-f02a99908fe7)
-    (at 169 25)
+    (at 162 29)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3408,7 +3408,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 7dcddee7-cb64-4a9d-bde8-637d2ee9257b)
-    (at 329 124.410262)
+    (at 261 41)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3453,7 +3453,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 8326c248-4963-4df7-8949-20fc1935f203)
-    (at 329 249.452984)
+    (at 201 49)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3498,7 +3498,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 866c8619-d28d-4451-872e-a561b01a3a0c)
-    (at 329 928.256332)
+    (at 234 50)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3543,7 +3543,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 86de4ddf-d43a-4f36-b0f3-5a169286f341)
-    (at 329 740.692249)
+    (at 135 75)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3588,7 +3588,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 8ef3eff7-809f-4f2d-8754-572000d32517)
-    (at 329 329.837591)
+    (at 202 45)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3633,7 +3633,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 962bca1c-fca6-4d07-948e-499b91c1d250)
-    (at 246 29)
+    (at 228 66)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3678,7 +3678,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 964742c0-ee94-4927-91df-9434b273df16)
-    (at 329 838.940102)
+    (at 271 42)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3723,7 +3723,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 9716896b-83bd-43bd-a585-fb3abecd443f)
-    (at 231 72)
+    (at 259 30)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3768,7 +3768,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 97df8333-19eb-483d-8357-5f1986e4e76a)
-    (at 329 588.854658)
+    (at 196 41)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3813,7 +3813,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 9a22861a-f0d5-45ff-9510-d64aac14d2d5)
-    (at 329 347.700837)
+    (at 141 27)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3858,7 +3858,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 9af5594e-e861-4257-879d-dd72da5cd8d7)
-    (at 329 544.196543)
+    (at 163 45)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3903,7 +3903,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp 9f6e2397-6fb1-48d7-b3be-a371c7937a78)
-    (at 329 874.666594)
+    (at 172 41)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3948,7 +3948,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp a0688260-74a7-4f2c-9b0c-212164329bbf)
-    (at 329 508.470051)
+    (at 233 40)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -3993,7 +3993,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp a4a4a9b2-b00e-4de8-947c-82cb95b02a26)
-    (at 329 142.273508)
+    (at 134 43)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4038,7 +4038,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp a681347c-2da8-48f2-88a6-f192a29fe2c6)
-    (at 329 463.811936)
+    (at 228 26)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4083,7 +4083,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp a7f9e962-df3d-48ec-bb65-e4cd721b1fdb)
-    (at 329 830.008479)
+    (at 138 50)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4128,7 +4128,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp a862cf8b-c453-47c1-8c6a-76db59b415bd)
-    (at 329 213.726492)
+    (at 195 63)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4173,7 +4173,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp a8f1073b-46c5-443e-8c2f-c44fa76db77e)
-    (at 329 785.350364)
+    (at 171 72)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4218,7 +4218,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp aa876ceb-6942-440f-b8b1-e714f33be91a)
-    (at 329 1044.367431)
+    (at 271 46)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4263,7 +4263,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp aad7a2f8-ae00-44dc-aa53-18a3e10940de)
-    (at 329 517.401674)
+    (at 162 68)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4308,7 +4308,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp abcba4f1-6f59-48a1-8ae5-91c9b3b973a4)
-    (at 329 285.179476)
+    (at 198 27)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4353,7 +4353,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp ad4a9cab-4f59-4a8e-8d4d-069f781c2a35)
-    (at 329 454.880313)
+    (at 255 25)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4398,7 +4398,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp ae6bf646-b66b-4f78-ba4e-7b721157abf0)
-    (at 329 160.136754)
+    (at 133 65)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4443,7 +4443,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp aea8ebdd-24cc-48f6-a569-93b1b6a74142)
-    (at 329 713.89738)
+    (at 131 73)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4488,7 +4488,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp af94a592-0290-41d6-acfb-25e9e5f847d6)
-    (at 329 972.914447)
+    (at 204 41)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4533,7 +4533,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp b284832d-7ebb-45ab-a1bb-1c3767c33b6a)
-    (at 329 106.547016)
+    (at 234 66)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4578,7 +4578,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp b332e204-7bb1-4429-a8f0-2694ea85959e)
-    (at 329 615.649527)
+    (at 127 70)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4623,7 +4623,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp b4d8e623-d912-463c-a6c7-bc18df423336)
-    (at 329 892.52984)
+    (at 235 46)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4668,7 +4668,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp b81289f2-27cf-4233-b1fc-a46009c0e108)
-    (at 174 63)
+    (at 228 46)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4713,7 +4713,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp bab293be-84e7-44d3-8bb3-d23ed8a48dea)
-    (at 241 29)
+    (at 223 66)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4758,7 +4758,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp be9ef0fd-d4b4-4417-94cd-667047c78598)
-    (at 329 847.871725)
+    (at 167 73)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4803,7 +4803,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp c1e6fe52-7e9f-4e57-8124-de3350fe9d71)
-    (at 329 910.393086)
+    (at 272 26)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4848,7 +4848,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp c23b46f3-9f34-434c-a011-177f3da1b6cb)
-    (at 329 606.717904)
+    (at 232 49)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4893,7 +4893,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp c85ae14d-8cee-4f1d-892f-ced6ad5288fb)
-    (at 329 856.803348)
+    (at 173 29)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4938,7 +4938,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp c87a424a-a7eb-4797-a218-080412caf897)
-    (at 329 267.31623)
+    (at 232 33)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -4983,7 +4983,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp c9519dbb-7fda-4b2d-904a-05f32731be38)
-    (at 329 383.427329)
+    (at 204 28)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -5028,7 +5028,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp cb3cd171-d468-491b-9c95-f8629d0bdbae)
-    (at 329 258.384607)
+    (at 137 23)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -5223,7 +5223,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp ced23a17-cc8a-4c5d-95f6-018b51394a9f)
-    (at 329 1035.435808)
+    (at 143 23)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -5268,7 +5268,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp d0ef9572-f9f1-402b-82aa-afe53ec77b54)
-    (at 169 63)
+    (at 223 46)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -5313,7 +5313,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp d169cf48-9f6d-465e-a5b6-60a89aa51c3a)
-    (at 268 97)
+    (at 256 40)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -5358,7 +5358,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp d1bcc174-49ee-47dc-8537-17590e91bff5)
-    (at 329 445.94869)
+    (at 262 63)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -5403,7 +5403,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp d37c9a21-a75d-4c2f-950c-c4469540ead5)
-    (at 329 963.982824)
+    (at 158 71)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -5448,7 +5448,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp d3ff16ad-199c-4151-b51d-a68d2ef279b4)
-    (at 245 46)
+    (at 168 45)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -5493,7 +5493,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp d66427b6-f782-4949-a4b8-5d050dca1a28)
-    (at 229 26)
+    (at 222 30)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -5538,7 +5538,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp d7d62d74-e40d-48f8-9eac-491ee6420441)
-    (at 205 27)
+    (at 198 31)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -5583,7 +5583,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp d8b0ff31-7470-40f0-bc24-bdf69a8dcefa)
-    (at 329 392.358952)
+    (at 257 65)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -5628,7 +5628,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp d9a6ae30-f9ee-4692-9ce6-37ab2b3096e0)
-    (at 329 204.794869)
+    (at 238 66)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -5673,7 +5673,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp db93065d-d7a9-442c-84f2-46c614861f72)
-    (at 329 651.376019)
+    (at 270 40)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -5718,7 +5718,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp dcc475f9-932f-4368-80e8-ae594caf77b1)
-    (at 132 24)
+    (at 125 28)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -5763,7 +5763,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp de097fb4-477c-417d-bbd4-baadec4de0d9)
-    (at 329 696.034134)
+    (at 224 24)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -5808,7 +5808,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp df50afc1-b4f4-4a08-9387-9825fc7d6670)
-    (at 329 1008.640939)
+    (at 271 30)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -5853,7 +5853,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp e053d9fe-2ebd-413c-8800-b7f3bae15a28)
-    (at 329 999.709316)
+    (at 237 41)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -5898,7 +5898,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp e05b7cfa-a126-4de7-a891-69e35c32483e)
-    (at 278 38)
+    (at 134 46)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -5943,7 +5943,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp e08835d1-b006-4059-8a37-3d1cc09f3130)
-    (at 329 883.598217)
+    (at 168 41)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -5988,7 +5988,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp e2ae356e-ef23-4b31-8a5e-0f3c3f7013b8)
-    (at 329 901.461463)
+    (at 130 69)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -6033,7 +6033,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp e412785b-4527-40b0-a133-202e6c25d7ad)
-    (at 329 311.974345)
+    (at 200 62)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -6078,7 +6078,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp e43e5894-ce0d-49fa-9364-b277a96db1ea)
-    (at 329 731.760626)
+    (at 259 49)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -6123,7 +6123,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp e5884003-4a8e-4f88-b334-0ec9eea462f4)
-    (at 329 481.675182)
+    (at 231 70)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -6168,7 +6168,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp ea452b47-2f32-4dcb-9278-cfa8a910bc64)
-    (at 173 25)
+    (at 166 29)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -6213,7 +6213,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp ef78c02e-028c-418b-afc1-43ac71d6e7a4)
-    (at 329 749.623872)
+    (at 173 50)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -6258,7 +6258,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp ef976f13-811f-4718-86ce-6e64d45a2a35)
-    (at 329 303.042722)
+    (at 139 65)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -6303,7 +6303,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp f1c1bfee-9d38-4668-8bc0-0aa6ec063599)
-    (at 329 428.085444)
+    (at 166 69)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -6348,7 +6348,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp f218931a-28a2-400d-8221-f44f359a183d)
-    (at 219 39)
+    (at 127 45)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -6393,7 +6393,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp f239c5a8-dbfe-4237-89fc-56c709be30b1)
-    (at 233 26)
+    (at 226 30)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -6438,7 +6438,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp f2ae85d9-7640-48a3-83c4-8d4b3e89cde3)
-    (at 201 26)
+    (at 194 30)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -6483,7 +6483,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp f2ba1a27-e532-4fae-ab61-113a78a8283e)
-    (at 329 624.58115)
+    (at 200 41)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -6528,7 +6528,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp f54301a6-e34e-4c8a-a6fe-2b7d44893692)
-    (at 145 61)
+    (at 193.4075 45)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -6573,7 +6573,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp fb4efd18-28c9-499c-9f48-5d7447461da3)
-    (at 269 102)
+    (at 257 45)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -6618,7 +6618,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp fc4c5b7f-1db9-479f-ba4e-7302e24bc012)
-    (at 329 320.905968)
+    (at 169 32)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -6663,7 +6663,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp fdb3150f-7b5c-4b67-b101-e0eba3c66191)
-    (at 329 133.341885)
+    (at 233 30)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
@@ -6708,7 +6708,7 @@
 
   (footprint "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBF83) (tstamp ff053595-254e-4a92-9b35-d27b80d283b1)
-    (at 329 1062.230677)
+    (at 176 40)
     (descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "led_matrix.kicad_sch")
