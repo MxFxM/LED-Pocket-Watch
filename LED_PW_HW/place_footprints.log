@@ -1,4 +1,13 @@
-01-01 20:38:12 place_footprints.action_place_footprints 414:Plugin executed on: 'win32'
-01-01 20:38:12 place_footprints.action_place_footprints 415:Plugin executed with python version: '3.9.6 (default, Sep 27 2021, 21:15:11) [MSC v.1929 64 bit (AMD64)]'
-01-01 20:38:12 place_footprints.action_place_footprints 416:KiCad build version: (6.0.0)
-01-01 20:38:12 place_footprints.action_place_footprints 417:Place footprints plugin version: 55 started
+01-02 12:55:15 place_footprints.action_place_footprints 228:Plugin executed on: 'win32'
+01-02 12:55:15 place_footprints.action_place_footprints 229:Plugin executed with python version: '3.9.6 (default, Sep 27 2021, 21:15:11) [MSC v.1929 64 bit (AMD64)]'
+01-02 12:55:15 place_footprints.action_place_footprints 230:KiCad build version: (6.0.0)
+01-02 12:55:15 place_footprints.action_place_footprints 231:Place footprints plugin version: 54 started
+01-02 12:55:15 place_footprints.action_place_footprints 264:Sorted and filtered list:
+['D8', 'D90', 'D116']
+01-02 14:06:03 STDERR 399:Traceback (most recent call last):
+01-02 14:06:03 STDERR 399:  File "D:\Programme\KiCad\6.0\share\kicad\scripting\kicad_pyshell\kicad_pyeditor.py", line 121, in OnIconize
+01-02 14:06:03 STDERR 399:self.iconized = event.Iconized()
+01-02 14:06:03 STDERR 399:AttributeError
+01-02 14:06:03 STDERR 399::
+01-02 14:06:03 STDERR 399:'IconizeEvent' object has no attribute 'Iconized'
+01-02 15:17:45 STDOUT 399:['D116', 'D90', 'D8']
