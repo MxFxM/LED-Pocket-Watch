@@ -1,0 +1,5 @@
+main.c:203:6:SystemClock_Config	104	static,ignoring_inline_asm
+main.c:493:6:MAX_I2CSend	16	static
+main.c:452:6:MAX_Init3746A	24	static
+main.c:88:5:main	72	static,ignoring_inline_asm
+main.c:503:6:Error_Handler	0	static,ignoring_inline_asm
