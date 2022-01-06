@@ -1,4 +1,4 @@
-19804058454535107
+19802417130787218
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55642,13 +55642,6 @@ solder jumper open
 0
 5
 3
-LED_Clock_HW
-QFN-32_EP_4x4_Pitch0.4mm
-
-
-0
-33
-33
 LED_PW_HW_Library
 ECX-34Q
 

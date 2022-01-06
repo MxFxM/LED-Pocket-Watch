@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name "LED_PW_HW_Library")(type "KiCad")(uri "${KIPRJMOD}/LED_PW_HW_Library.pretty")(options "")(descr ""))
+  (lib (name "LED_Clock_HW")(type "KiCad")(uri "C:/Users/Max-Felix/Desktop/LED Pocket Watch/LED_Clock_Files/LED_Clock_HW.pretty")(options "")(descr ""))
+  (lib (name "LED_Clock_HW-backups")(type "KiCad")(uri "C:/Users/Max-Felix/Desktop/LED Pocket Watch/LED_Clock_Files/LED_Clock_HW-backups")(options "")(descr ""))
 )

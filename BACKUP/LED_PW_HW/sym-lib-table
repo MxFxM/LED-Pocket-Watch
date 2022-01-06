@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "LED_PW_HW_Library")(type "KiCad")(uri "${KIPRJMOD}/LED_PW_HW_Library.kicad_sym")(options "")(descr ""))
+)
