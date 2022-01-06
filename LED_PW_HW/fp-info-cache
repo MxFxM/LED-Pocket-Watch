@@ -1,4 +1,4 @@
-19799134183794734
+19802417130273146
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55643,6 +55643,13 @@ solder jumper open
 5
 3
 LED_PW_HW_Library
+ECX-34Q
+
+
+0
+2
+2
+LED_PW_HW_Library
 IS31FL3732A
 QFN-40_EP_5x5_Pitch0.4mm Led driver IC for 144 LEDs footprint
 
@@ -55656,6 +55663,13 @@ SMTU2032-LF
 0
 2
 2
+LED_PW_HW_Library
+Switch-DifferentPadNr
+
+
+0
+0
+0
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf

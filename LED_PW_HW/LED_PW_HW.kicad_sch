@@ -63,6 +63,12 @@
     (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/ae26ebac-0206-45a6-93ce-a9a742242335"
       (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
     )
+    (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/0cb16722-4aab-4bed-9918-7a16d569656d"
+      (reference "#PWR0109") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/8b520731-2659-4c44-a700-57e5155ea273"
+      (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
+    )
     (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/93b149b5-7826-4c73-bd3e-72cc2abcd2eb"
       (reference "#PWR0111") (unit 1) (value "+3V3") (footprint "")
     )
@@ -98,6 +104,9 @@
     )
     (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/74bc9487-5145-4e69-ab6e-f7f7a0634f9b"
       (reference "#PWR0122") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/b41f47fd-17cb-4860-8db2-2c1daf46d7ba"
+      (reference "#PWR0123") (unit 1) (value "GND") (footprint "")
     )
     (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/f2d00ab3-6d87-4cea-894c-5c2757a8a595"
       (reference "#PWR0124") (unit 1) (value "GND") (footprint "")
@@ -182,6 +191,9 @@
     )
     (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/69bc5498-9d59-4595-964f-85f17e68da03"
       (reference "C11") (unit 1) (value "100n n.b.") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/66512f77-670a-43d0-a686-b76d8541d601"
+      (reference "C12") (unit 1) (value "100n n.b.") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/d359f00c-b7b0-4b03-ada9-0252e9142a21"
       (reference "C13") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -655,37 +667,25 @@
       (reference "R10") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/d0486579-8969-4c39-867a-07cb40aa9bf3"
-      (reference "SW1") (unit 1) (value "SW_MEC_5E") (footprint "")
+      (reference "SW1") (unit 1) (value "SW_MEC_5E") (footprint "LED_PW_HW_Library:Switch-DifferentPadNr")
     )
     (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/072462b9-60f6-45d1-93f0-4e227ab9c843"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
     )
-    (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/02608744-810f-4b0e-971c-55933a53b4e5"
+    (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/56e64d9b-bd15-4a4e-ab59-3a62891ab41f"
       (reference "TP2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
     )
     (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/4796f5ae-8a2b-4cb3-bf9f-2e004cd5cb45"
       (reference "TP3") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
     )
-    (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/47f0e287-6d54-4d04-905f-a72be069bc97"
-      (reference "TP12") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
+    (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/1b44cf30-1121-440b-829a-003f984474a4"
+      (reference "TP4") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
     )
-    (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/797c5d77-6111-421b-aaee-32124c17d7f5"
-      (reference "TP13") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
+    (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/698d05de-9f9b-41a9-ae9c-e67c16667359"
+      (reference "TP5") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
     )
-    (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/562b0e04-2af2-4ed0-be9c-e7625a079661"
-      (reference "TP14") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
-    )
-    (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/8103b105-8478-4c5a-8efd-a5bcaaad350b"
-      (reference "TP15") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
-    )
-    (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/327702bf-9494-443c-92f9-a761830375a5"
-      (reference "TP16") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
-    )
-    (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/d8551b70-4750-47df-af65-69453ca1c5b8"
-      (reference "TP17") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
-    )
-    (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/6129be76-3d33-4a78-a15c-7114de02cf07"
-      (reference "TP18") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
+    (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/0c3a2c24-0564-4ac6-aa18-0722a863890a"
+      (reference "TP6") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
     )
     (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/3b33e8ae-6e57-4053-9f11-b65a80e7444f"
       (reference "TP19") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
@@ -699,15 +699,6 @@
     (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/5e1f6029-490e-4bfb-8c20-54078db4c57a"
       (reference "TP22") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
     )
-    (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/0d57e4ad-1dc3-4dc6-ad59-c2777e8b242e"
-      (reference "TP23") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
-    )
-    (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/9aae0089-45cb-44c8-89c3-5a549414cdca"
-      (reference "TP24") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
-    )
-    (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/a905e6ef-866a-4a39-a47c-b6119399343a"
-      (reference "TP25") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
-    )
     (path "/6af2015e-53f4-4456-8219-e17e88ee41dc/84c8241f-b3cd-4ebe-8c78-222e0ca4884d"
       (reference "U1") (unit 1) (value "IS31FL3732A") (footprint "LED_PW_HW_Library:IS31FL3732A")
     )
@@ -715,7 +706,7 @@
       (reference "U2") (unit 1) (value "STM32L031K6Tx") (footprint "Package_QFP:LQFP-32_7x7mm_P0.8mm")
     )
     (path "/20bf37c0-abf5-4c3a-b032-5018440d349d/58aa0e0b-7359-4c41-85ba-48d72229d01b"
-      (reference "Y1") (unit 1) (value "Crystal") (footprint "")
+      (reference "Y1") (unit 1) (value "Crystal") (footprint "LED_PW_HW_Library:ECX-34Q")
     )
   )
 )
