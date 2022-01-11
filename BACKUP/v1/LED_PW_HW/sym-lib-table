@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "LED_PW_HW_Library")(type "KiCad")(uri "${KIPRJMOD}/LED_PW_HW_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "LED_Clock_HW")(type "Legacy")(uri "C:/Users/Max-Felix/Desktop/LED Pocket Watch/LED_Clock_Files/LED_Clock_HW.lib")(options "")(descr ""))
+  (lib (name "LED_Clock_HW-cache")(type "Legacy")(uri "C:/Users/Max-Felix/Desktop/LED Pocket Watch/LED_Clock_Files/LED_Clock_HW-cache.lib")(options "")(descr ""))
+)
