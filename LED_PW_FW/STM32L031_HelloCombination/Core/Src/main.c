@@ -431,16 +431,16 @@ static void MAX_Set_Rtc(void)
   date.Month = BUILD_MONTH;
   date.Date = BUILD_DAY;
   // the weekday is calculated (meh)
-  int year = BUILD_YEAR;
-  int month = BUILD_MONTH;
-  int day = BUILD_DAY;
+  uint16_t year = BUILD_YEAR;
+  uint16_t month = BUILD_MONTH;
+  uint16_t day = BUILD_DAY;
   if (month < 3) {
     day = day + year;
     year--;
   } else {
     day = day + year - 2;
   }
-  date.WeekDay = ((int)(23 * month/9) + day + 4 + (int)(year/4) - (int)(year/100) + (int)(year/400)) % 7;
+  date.WeekDay = ((uint16_t)(23 * month/9.0) + day + 4 + (uint16_t)(year/4) - (uint16_t)(year/100) + (uint16_t)(year/400)) % 7;
   // correct for sunday
   // 1 = monday, 7 = sunday
   if (date.WeekDay == 0) {
