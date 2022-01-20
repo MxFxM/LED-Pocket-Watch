@@ -36,6 +36,7 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include "build_defs.h"
+#include <stdbool.h>
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -62,6 +63,22 @@ UART_HandleTypeDef huart2;
 
 /* USER CODE BEGIN PV */
 uint8_t hours[] = {35, 53, 71, 18, 36, 54, 72, 16, 34, 52, 70, 17};
+
+uint8_t minutes[] = {2, 20, 38, 56,
+                     3, 21, 39, 57,
+                     4, 22, 40, 58,
+                     5, 23, 41, 59,
+                     6, 24, 42, 60,
+                     7, 25, 43, 61,
+                     8, 26, 44, 62,
+                     9, 27, 45, 63,
+                     10, 28, 46, 64,
+                     11, 29, 47, 65,
+                     12, 30, 48, 66,
+                     13, 31, 49, 67,
+                     14, 32, 50, 68,
+                     15, 33, 51, 69,
+                     1, 19, 37, 55};
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -126,11 +143,16 @@ int main(void)
   }
 
   HAL_GPIO_WritePin(GPIOA, GPIO_PIN_12, GPIO_PIN_SET);
+  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_11, GPIO_PIN_SET);
 
   MAX_Init3746A();
 
   RTC_TimeTypeDef lasttime;
   lasttime.Seconds = 99;
+  lasttime.Hours = 99;
+  lasttime.Minutes = 99;
+
+  bool changed = false;
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -151,15 +173,47 @@ int main(void)
     MAX_I2CSend(data); // page 0
 
     if (time.Seconds != lasttime.Seconds) {
-      data[0] = hours[lasttime.Seconds%12];
+      data[0] = minutes[(lasttime.Seconds+41)%60];
       data[1] = 0x00;
       MAX_I2CSend(data); // off
 
-      lasttime = time;
+      changed = true;
 
-      data[0] = hours[time.Seconds%12];
+      data[0] = minutes[(time.Seconds+41)%60];
       data[1] = 0x08;
       MAX_I2CSend(data); // on
+      data[0] = minutes[(time.Minutes+41)%60];
+      data[1] = 0x08;
+      MAX_I2CSend(data); // on
+    }
+
+    if (time.Minutes != lasttime.Minutes) {
+      data[0] = minutes[(lasttime.Minutes+41)%60];
+      data[1] = 0x00;
+      MAX_I2CSend(data); // off
+
+      changed = true;
+
+      data[0] = minutes[(time.Minutes+41)%60];
+      data[1] = 0x08;
+      MAX_I2CSend(data); // on
+    }
+
+    if (time.Hours != lasttime.Hours) {
+      data[0] = hours[(lasttime.Hours+4)%12];
+      data[1] = 0x00;
+      MAX_I2CSend(data); // off
+
+      changed = true;
+
+      data[0] = hours[(time.Hours+4)%12];
+      data[1] = 0x08;
+      MAX_I2CSend(data); // on
+    }
+
+    if (changed) {
+      changed = false;
+      lasttime = time;
     }
 
     // if button was released, aka pulled low
@@ -323,7 +377,6 @@ static void MX_RTC_Init(void)
   hrtc.Init.OutPutRemap = RTC_OUTPUT_REMAP_NONE;
   hrtc.Init.OutPutPolarity = RTC_OUTPUT_POLARITY_HIGH;
   hrtc.Init.OutPutType = RTC_OUTPUT_TYPE_OPENDRAIN;
-
   if (!(PWR->CSR & PWR_CSR_SBF)) { //USER
     if (HAL_RTC_Init(&hrtc) != HAL_OK)
     {
@@ -386,7 +439,7 @@ static void MX_GPIO_Init(void)
   __HAL_RCC_GPIOB_CLK_ENABLE();
 
   /*Configure GPIO pin Output Level */
-  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_12, GPIO_PIN_RESET);
+  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_11|GPIO_PIN_12, GPIO_PIN_RESET);
 
   /*Configure GPIO pin Output Level */
   HAL_GPIO_WritePin(LD3_GPIO_Port, LD3_Pin, GPIO_PIN_RESET);
@@ -397,8 +450,8 @@ static void MX_GPIO_Init(void)
   GPIO_InitStruct.Pull = GPIO_NOPULL;
   HAL_GPIO_Init(GPIOA, &GPIO_InitStruct);
 
-  /*Configure GPIO pin : PA12 */
-  GPIO_InitStruct.Pin = GPIO_PIN_12;
+  /*Configure GPIO pins : PA11 PA12 */
+  GPIO_InitStruct.Pin = GPIO_PIN_11|GPIO_PIN_12;
   GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
   GPIO_InitStruct.Pull = GPIO_NOPULL;
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
@@ -422,7 +475,7 @@ static void MAX_Set_Rtc(void)
   RTC_TimeTypeDef time;
   time.Hours = BUILD_HOUR;
   time.Minutes = BUILD_MIN;
-  time.Seconds = 9;
+  time.Seconds = BUILD_SEC;
   HAL_RTC_SetTime(&hrtc, &time, RTC_FORMAT_BIN);
 
   // same with the date
